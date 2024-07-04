@@ -252,7 +252,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"dff-main-lobby-2.json"
+                 "value":"dff-main-lobby2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
