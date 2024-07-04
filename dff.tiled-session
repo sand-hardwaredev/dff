@@ -22,11 +22,11 @@
             "scaleInEditor": 1
         },
         "dff-guests-directory.json": {
-            "scale": 0.75,
+            "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1424,
-                "y": 783.3333333333334
+                "x": 1425.6666666666665,
+                "y": 1212.6666666666665
             }
         },
         "dff-guests-directory.json#Collides": {
@@ -46,8 +46,8 @@
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1469.3333333333333,
-                "y": 783.3333333333334
+                "x": 1460.6666666666665,
+                "y": 784
             }
         },
         "dff-guests-lobby.json#Collides": {
@@ -59,10 +59,10 @@
         },
         "dff-main-ai-lecture.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1424,
-                "y": 783.3333333333334
+                "x": 1423.333333333333,
+                "y": 784
             }
         },
         "dff-main-ai-lecture.json#Collides": {
@@ -73,11 +73,11 @@
             "scaleInDock": 1
         },
         "dff-main-directory.json": {
-            "scale": 0.5,
+            "scale": 1,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1359,
-                "y": 1089
+                "x": 1511.5,
+                "y": 1128
             }
         },
         "dff-main-directory.json#Collides": {
@@ -91,10 +91,10 @@
         },
         "dff-main-live-lecture.json": {
             "scale": 0.33,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1716.6666666666667,
-                "y": 453.030303030303
+                "x": 1713.6363636363635,
+                "y": 451.5151515151513
             }
         },
         "dff-main-live-lecture.json#Collides": {
@@ -105,10 +105,10 @@
         },
         "dff-main-lobby.json": {
             "scale": 0.75,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 875.3333333333333,
-                "y": 972.6666666666667
+                "x": 1690,
+                "y": 969.3333333333333
             }
         },
         "dff-main-lobby.json#Collides": {
@@ -120,10 +120,10 @@
         },
         "dff-main-lobby2.json": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1424,
-                "y": 783.3333333333334
+                "x": 1420.6666666666667,
+                "y": 781.3333333333334
             }
         },
         "dff-main-lobby2.json#Collides": {
