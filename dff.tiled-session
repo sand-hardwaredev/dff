@@ -1,0 +1,163 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "dff-main-directory.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#dff-guests-lobby": {
+            "scaleInDock": 1
+        },
+        "#dff-main-lobby": {
+            "scaleInDock": 1
+        },
+        "dff-directory.json#Collides": {
+            "scaleInEditor": 1
+        },
+        "dff-guests-directory.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1415.3333333333333,
+                "y": 1019.3333333333333
+            }
+        },
+        "dff-guests-directory.json#Collides": {
+            "scaleInDock": 1
+        },
+        "dff-guests-directory.json#dff-directory": {
+            "scaleInDock": 1
+        },
+        "dff-guests-directory.json#dff-directory-overlay": {
+            "scaleInDock": 1
+        },
+        "dff-guests-directory.json#dff-guests-directory": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dff-guests-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1432.6666666666667,
+                "y": 1352.6666666666665
+            }
+        },
+        "dff-guests-lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dff-guests-lobby.json#dff-guests-lobby": {
+            "scaleInDock": 0.33
+        },
+        "dff-main-ai-lecture.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1430,
+                "y": 997.9999999999999
+            }
+        },
+        "dff-main-ai-lecture.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dff-main-ai-lecture.json#dff-main-ai-lecture": {
+            "scaleInDock": 1
+        },
+        "dff-main-directory.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1361,
+                "y": 1091
+            }
+        },
+        "dff-main-directory.json#Collides": {
+            "scaleInDock": 1
+        },
+        "dff-main-directory.json#dff-directory": {
+            "scaleInDock": 1
+        },
+        "dff-main-directory.json#dff-directory-overlay": {
+            "scaleInDock": 1
+        },
+        "dff-main-live-lecture.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1719.6969696969697,
+                "y": 456.060606060606
+            }
+        },
+        "dff-main-live-lecture.json#Collides": {
+            "scaleInDock": 1
+        },
+        "dff-main-live-lecture.json#dff-main-live-lecture": {
+            "scaleInDock": 1
+        },
+        "dff-main-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1145.9999999999998,
+                "y": 580.6666666666667
+            }
+        },
+        "dff-main-lobby.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dff-main-lobby.json#dff-main-lobby": {
+            "scaleInDock": 1
+        },
+        "dff-main-lobby2.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1496.6666666666665,
+                "y": 1328.6666666666665
+            }
+        },
+        "dff-main-lobby2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "dff-main-lobby2.json#dff-guests-lobby": {
+            "scaleInEditor": 1
+        },
+        "dff-main-lobby2.json#dff-main-lobby2": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "dff-guests-directory.json",
+        "dff-main-directory.json",
+        "dff-guests-lobby.json",
+        "dff-main-lobby.json",
+        "dff-main-lobby2.json",
+        "dff-main-ai-lecture.json",
+        "dff-main-live-lecture.json"
+    ],
+    "project": "dff.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "dff-guests-directory.json",
+        "dff-main-live-lecture.json",
+        "dff-main-ai-lecture.json",
+        "dff-main-lobby2.json",
+        "dff-main-lobby.json",
+        "dff-guests-lobby.json",
+        "dff-main-directory.json"
+    ],
+    "tileset.embedInMap": true
+}
