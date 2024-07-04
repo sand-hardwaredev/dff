@@ -316,6 +316,12 @@
          "id":6,
          "name":"exit-to-live-lecture",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"dff-main-live-lecture.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":91,
@@ -378,6 +384,12 @@
          "id":7,
          "name":"exit-to-ai-lecture",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"dff-main-ai-lecture.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":91,

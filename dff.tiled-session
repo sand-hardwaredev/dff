@@ -25,8 +25,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1415.3333333333333,
-                "y": 1019.3333333333333
+                "x": 1424,
+                "y": 783.3333333333334
             }
         },
         "dff-guests-directory.json#Collides": {
@@ -46,8 +46,8 @@
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1432.6666666666667,
-                "y": 1352.6666666666665
+                "x": 1469.3333333333333,
+                "y": 783.3333333333334
             }
         },
         "dff-guests-lobby.json#Collides": {
@@ -61,8 +61,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1430,
-                "y": 997.9999999999999
+                "x": 1424,
+                "y": 783.3333333333334
             }
         },
         "dff-main-ai-lecture.json#Collides": {
@@ -76,8 +76,8 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1361,
-                "y": 1091
+                "x": 1359,
+                "y": 1089
             }
         },
         "dff-main-directory.json#Collides": {
@@ -93,8 +93,8 @@
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1719.6969696969697,
-                "y": 456.060606060606
+                "x": 1716.6666666666667,
+                "y": 453.030303030303
             }
         },
         "dff-main-live-lecture.json#Collides": {
@@ -105,10 +105,10 @@
         },
         "dff-main-lobby.json": {
             "scale": 0.75,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1145.9999999999998,
-                "y": 580.6666666666667
+                "x": 875.3333333333333,
+                "y": 972.6666666666667
             }
         },
         "dff-main-lobby.json#Collides": {
@@ -122,8 +122,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1496.6666666666665,
-                "y": 1328.6666666666665
+                "x": 1424,
+                "y": 783.3333333333334
             }
         },
         "dff-main-lobby2.json#Collides": {
@@ -149,7 +149,7 @@
         "dff-main-live-lecture.json"
     ],
     "project": "dff.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "dff-guests-directory.json",
         "dff-main-live-lecture.json",
