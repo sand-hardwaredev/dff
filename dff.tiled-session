@@ -58,8 +58,8 @@
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1489,
-                "y": 976
+                "x": 1487,
+                "y": 974
             }
         },
         "dff-exterior.json#Collides": {
@@ -73,8 +73,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1420.6666666666667,
-                "y": 780
+                "x": 1416.6666666666667,
+                "y": 776
             }
         },
         "dff-guests-directory.json#Collides": {
@@ -95,7 +95,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 1498.4848484848485,
-                "y": 778.7878787878788
+                "y": 775.7575757575758
             }
         },
         "dff-guests-lobby.json#Collides": {
@@ -153,10 +153,10 @@
         },
         "dff-main-lobby.json": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1392.6666666666667,
-                "y": 1417.333333333333
+                "x": 1391.3333333333333,
+                "y": 928
             }
         },
         "dff-main-lobby.json#Collides": {
@@ -170,8 +170,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1423,
-                "y": 784
+                "x": 1421,
+                "y": 782
             }
         },
         "dff-main-lobby2.json#Collides": {
