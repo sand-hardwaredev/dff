@@ -41,8 +41,8 @@
             "scale": 0.4682963709677419,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1425.3793994187922,
-                "y": 785.8271445484877
+                "x": 1421.1085997201592,
+                "y": 783.6917446991713
             }
         },
         "E:/wfh-temp/gamedev/ihc/executive-office-ceo/executive-office-meeting-1.json#Collides": {
@@ -54,12 +54,27 @@
         "dff-directory.json#Collides": {
             "scaleInEditor": 1
         },
+        "dff-exterior.json": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1489,
+                "y": 976
+            }
+        },
+        "dff-exterior.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dff-exterior.json#dff-exterior": {
+            "scaleInDock": 1
+        },
         "dff-guests-directory.json": {
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1434,
-                "y": 968
+                "x": 1420.6666666666667,
+                "y": 780
             }
         },
         "dff-guests-directory.json#Collides": {
@@ -79,8 +94,8 @@
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1680.3030303030305,
-                "y": 442.42424242424227
+                "x": 1498.4848484848485,
+                "y": 778.7878787878788
             }
         },
         "dff-guests-lobby.json#Collides": {
@@ -94,8 +109,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1415.3333333333333,
-                "y": 1021.3333333333333
+                "x": 1418,
+                "y": 780
             }
         },
         "dff-main-ai-lecture.json#Collides": {
@@ -109,8 +124,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1439.5,
-                "y": 813
+                "x": 1443,
+                "y": 816
             }
         },
         "dff-main-directory.json#Collides": {
@@ -126,8 +141,8 @@
             "scale": 0.33,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 2013.6363636363637,
-                "y": 542.4242424242423
+                "x": 1425.7575757575758,
+                "y": 778.7878787878788
             }
         },
         "dff-main-live-lecture.json#Collides": {
@@ -137,11 +152,11 @@
             "scaleInDock": 1
         },
         "dff-main-lobby.json": {
-            "scale": 0.33,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 928.7878787878788,
-                "y": 472.72727272727275
+                "x": 1392.6666666666667,
+                "y": 1417.333333333333
             }
         },
         "dff-main-lobby.json#Collides": {
@@ -155,8 +170,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1249,
-                "y": 666
+                "x": 1423,
+                "y": 784
             }
         },
         "dff-main-lobby2.json#Collides": {
@@ -183,7 +198,7 @@
         "E:/wfh-temp/gamedev/ihc/executive-office-ceo/executive-office-meeting-1.json"
     ],
     "project": "dff.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "dff-guests-directory.json",
         "dff-main-directory.json",
